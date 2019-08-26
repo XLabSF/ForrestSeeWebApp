@@ -1,27 +1,20 @@
 ---
 layout: post
-title:  "Let's test spoilers"
-author: sal
-categories: [ Jekyll, tutorial ]
+title:  "WHEN CLIMATE CHANGE MEANS THE MOST FAMILIAR THINGS LOST"
+author: Anh Vu
+categories: [ blog, memoir ]
 image: assets/images/12.jpg
 featured: true
 hidden: true
 ---
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
+I’ve been traveling in Da Nang several times and every time I always tried to have a short visit at Son Tra Peninsula to breath in and out the very fresh air in my lungs before coming back to a bustling city like Ho Chi Minh. The moment being at the Ling Ung pagoda and looking down at the ocean and green plants always captivate myself. My companion used to tell me that the air quality in Da Nang is always good or more than good thanks to the green lung of the city - Son Tra peninsula. And it’s true, according to air-quality.com air quality Index (AQI) of Da Nang varies from 50 to 60 while in Ho Chi Minh city, AQI is shocking from 90 to 110. Grrr!!!
+In the past few years, while many tourists are praising about the peninsula’s pristine beauty and vast expanses of natural forest and the shelter for red-shanked douc, we nearly witness the lost the Peninsula itself since tourism and unauthorizing resort projects began to have their eyes on the peninsula to build mass of building, hotels and villas at the foot of it. And obviously, the meaning of sustainable tourism development was still a strange word for these investors. The massive tourism master plan threatened the biodiversity ranges from primary forest to ocean dunes and of course, gradually stealing the doucs’ home and killing them with the ignorance of unsustainable projects.
+But don’t worry, the local people, Vietnamese and even foreign biologists have strengthened their voice and raise it together all over the internet about this cruelty and created a petition to demand the state to halt the construction. Under the massive pressure, the city officials canceled the so-called “big money” -  unharmonious tourism.
+(Photo from Saigoneer) Doucs in Son Tra Peninsula
 
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
+Recently, people are talking more about climate change, global warming and natural disasters happening everywhere; the young people begin to restrain themselves from using one-time use plastic and start varies demonstrations to ask for changes from the government & big industries. This generation gives no doubt about climate change and its impact on human daily lives with a loud and clear slogan “Climate change is real! Climate change matters!”
+I can’t imagine how bad it is if we lost half of the Son Tra Peninsula to concrete infrastructure, how changing it can affect the cleanliness of the air and how much green and natural playful sound we can be lost to fulfilled by the prosperity and artificial green of fancy resorts. Somehow for me, climate change can happen in front of you from losing the most treasurable and familiar things. Son Tra peninsula is still there filter the cleanliness for the city but it doesn’t mean it can’t be lost again by the ignorance of a group of people. Yes, climate change is real and it’s matter, In the small scale, I think we should say Son Tra Peninsula is real and matters to us.
 
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
-
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
-
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
-
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
-
-#### So how do we do spoilers?
-
-```html
-<span class="spoiler">My hidden paragraph here.</span>
-```
+Ref:
+https://saigoneer.com/vietnam-news/9575-da-nang-officials-suspend-construction-of-unauthorized-resort-on-son-tra-peninsula
