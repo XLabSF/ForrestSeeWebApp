@@ -16,7 +16,7 @@ But don’t worry, the local people, Vietnamese and even foreign biologists have
 Recently, people are talking more about climate change, global warming and natural disasters happening everywhere; the young people begin to restrain themselves from using one-time use plastic and start varies demonstrations to ask for changes from the government & big industries. This generation gives no doubt about climate change and its impact on human daily lives with a loud and clear slogan “Climate change is real! Climate change matters!”
 I can’t imagine how bad it is if we lost half of the Son Tra Peninsula to concrete infrastructure, how changing it can affect the cleanliness of the air and how much green and natural playful sound we can be lost to fulfilled by the prosperity and artificial green of fancy resorts. Somehow for me, climate change can happen in front of you from losing the most treasurable and familiar things. Son Tra peninsula is still there filter the cleanliness for the city but it doesn’t mean it can’t be lost again by the ignorance of a group of people. Yes, climate change is real and it’s matter, In the small scale, I think we should say Son Tra Peninsula is real and matters to us.
 
- ![](assets/images/2019-26-08-when-climate-change-2.jpg)
+ ![]({{ site.baseurl }}/assets/images/2019-26-08-when-climate-change-2.jpg)
  Photo by me: At Ling Ung pagoda
 
 Ref:
