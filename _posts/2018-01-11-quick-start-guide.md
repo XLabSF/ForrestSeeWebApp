@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "When climate change means the most familiar things lost"
-author: 'Anh Vu'
+author: anhvu
 categories: [ blog, memoir ]
 image: assets/images/12.jpg
 featured: true

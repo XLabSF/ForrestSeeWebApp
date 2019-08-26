@@ -13,7 +13,7 @@ permalink: /:title/
 
 # Authors
 authors:
-  anh:
+  anhvu:
     name: 'Anh Vu'
       display_name: 'Anh Vu'
       avatar: 'assets/images/writer_anh_vu.png'
