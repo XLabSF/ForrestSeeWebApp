@@ -13,6 +13,19 @@ permalink: /:title/
 
 # Authors
 authors:
+  name: Anh Vu
+    display_name: Anh
+    avatar: 'assets/images/writer_anh_vu.png'
+    gravatar: b1cc14991db7a456fcd761680bbc8f81
+    email: vuhaanhprivacy@gmail.com
+    web:
+    twitter:
+    description: "I'm a lake, a mountain and daffodils,
+                       Far far away from the hills
+                       Searching my reaches to find what human is
+                       What ever I see I write it down
+                       What I ever I love I film it
+                       In colors or black & white."
   sal:
     name: Emma
     display_name: Emma
