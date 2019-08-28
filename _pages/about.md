@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: the pilot project
 permalink: /about
 comments: true
 ---
