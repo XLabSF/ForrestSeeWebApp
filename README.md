@@ -1,23 +1,69 @@
-# Mediumish - Jekyll Theme
+# ForrestSeeWebApp
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
+`ForrestSeeWebApp` is a website built on top of a free Bootstrap Jekyll theme for blogging, collections, resources, reviews websites.
 
-![mediumish](assets/images/mediumish-jekyll-template.png)
+This documentation is written by command line terminal users including `Windows`, `Linux` and `Mac` for a purpose of adding a new blog to the website. The process is processed by `Git`- a general package for version control especially in open-source.
+
+Original link can be seen here https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/
+
+### How to use this website
+
+0. Make sure that you are added to repo as a contributor. Shoot an email to xlab.contact@gmail.com to let us know you, and then you can proceede the next step
+
+1. Download or `git clone https://github.com/XLabSF/ForrestSeeWebApp`
+
+2. `cd ForrestSeeWebApp`
+
+3. Start by adding your `.md` files in `_posts` directory.
+
+4. `git add <filename>` or `git add -p` for a modification.
+
+5. `git commit -m "<note for a git>"`
+
+6. `git push origina master` Note: Pay attention! Be careful for any update on a `master` branch - anything updated here will be shown immediately on the website.
+
+### Some useful structures
+
+YAML front matter
+featured post - featured:true
+exclude featured post from “All stories” loop to avoid duplicated posts - hidden:true
+post image - image: assets/images/mypic.jpg
+external post image - image: "https://externalwebsite.com/image4.jpg"
+page comments - comments:true
+meta description (optional) - description: "this is my meta description"
+#### YAML Post Example:
+```md
+---
+layout: post
+title:  "We all wait for summer"
+author: john
+categories: [ Jekyll, tutorial ]
+image: assets/images/5.jpg
+description: "Something about this post here"
+---
+```
+#### YAML Page Example
+
+```md
+---
+layout: page
+title: Mediumish Template for Jekyll
+comments: true
+---
+```
 
 
-### Copyright
+#### Table of Contents
 
-Copyright (C) 2019 Sal, https://www.wowthemes.net
-
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
-
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Contribute
-
-1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-2. Clone a copy of your fork on your local
-3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-4. Make necessary changes, commit, push and open a pull request on GitHub.
-
-Thank you!
+Add toc:true on your post YAML.
+```md
+---
+layout: post
+title:  "Education must also train one for quick, resolute and effective thinking."
+author: john
+categories: [ Jekyll, tutorial ]
+image: assets/images/3.jpg
+beforetoc: "Markdown editor is a very powerful thing. In this article I'm going to show you what you can actually do with it, some tricks and tips while editing your post."
+toc: true
+---
+```
